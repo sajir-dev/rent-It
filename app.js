@@ -8,14 +8,15 @@ async function getItems () {
 }
 
 getItems().then(data => {
-    console.log(data);
+    // console.log(data);
     updateUI(data);
 });
 
 function updateUI(data) {
     let innerHtml = "";
-
+    
     data.forEach(item => {
+      // console.log(`${item.images[0].url}`);
         innerHtml += `
         <div class="col-lg-4 col-md-6 mb-4">
         <div class="card h-100">
@@ -37,3 +38,6 @@ function updateUI(data) {
     })
     rentalItemsWrapper.innerHTML = innerHtml;
 }
+
+// Cors policy is blocking the access. Entho scene und
+{/* <a href="#"><img class="card-img-top" src="http://134.209.156.166"${item.images[0].url}" alt=""></a> */}
