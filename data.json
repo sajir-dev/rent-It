@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "itemName": "Sherwani",
+    "itemDescription": "Color - White\nSize - XL\nChinese Collared",
+    "depositAmount": 5000,
+    "rentalAmount": 1000,
+    "rentalBasis": "daily",
+    "EANCode": null,
+    "isActive": false,
+    "tags": null,
+    "created_by": {
+      "id": 1,
+      "firstname": "jeeth",
+      "lastname": "joseph",
+      "username": null
+    },
+    "updated_by": {
+      "id": 1,
+      "firstname": "jeeth",
+      "lastname": "joseph",
+      "username": null
+    },
+    "created_at": "2020-08-03T02:01:59.251Z",
+    "updated_at": "2020-08-03T02:01:59.285Z",
+    "itemRichTextDescription": null,
+    "images": [
+      {
+        "id": 1,
+        "name": "398mw52-white-sherwani.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 1000,
+        "height": 1400,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_398mw52_white_sherwani_96b864d2e3.jpg",
+            "hash": "large_398mw52_white_sherwani_96b864d2e3",
+            "mime": "image/jpeg",
+            "name": "large_398mw52-white-sherwani.jpg",
+            "path": null,
+            "size": 34.31,
+            "width": 714,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_398mw52_white_sherwani_96b864d2e3.jpg",
+            "hash": "small_398mw52_white_sherwani_96b864d2e3",
+            "mime": "image/jpeg",
+            "name": "small_398mw52-white-sherwani.jpg",
+            "path": null,
+            "size": 10.81,
+            "width": 357,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_398mw52_white_sherwani_96b864d2e3.jpg",
+            "hash": "medium_398mw52_white_sherwani_96b864d2e3",
+            "mime": "image/jpeg",
+            "name": "medium_398mw52-white-sherwani.jpg",
+            "path": null,
+            "size": 20.56,
+            "width": 536,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_398mw52_white_sherwani_96b864d2e3.jpg",
+            "hash": "thumbnail_398mw52_white_sherwani_96b864d2e3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_398mw52-white-sherwani.jpg",
+            "path": null,
+            "size": 1.98,
+            "width": 111,
+            "height": 156
+          }
+        },
+        "hash": "398mw52_white_sherwani_96b864d2e3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 64.22,
+        "url": "/uploads/398mw52_white_sherwani_96b864d2e3.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-03T02:00:21.905Z",
+        "updated_at": "2020-08-03T02:00:21.944Z"
+      },
+      {
+        "id": 2,
+        "name": "398mw52-white-sherwani-1.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 1000,
+        "height": 1400,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "/uploads/large_398mw52_white_sherwani_1_dac7211294.jpg",
+            "hash": "large_398mw52_white_sherwani_1_dac7211294",
+            "mime": "image/jpeg",
+            "name": "large_398mw52-white-sherwani-1.jpg",
+            "path": null,
+            "size": 47.41,
+            "width": 714,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_398mw52_white_sherwani_1_dac7211294.jpg",
+            "hash": "small_398mw52_white_sherwani_1_dac7211294",
+            "mime": "image/jpeg",
+            "name": "small_398mw52-white-sherwani-1.jpg",
+            "path": null,
+            "size": 15.14,
+            "width": 357,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_398mw52_white_sherwani_1_dac7211294.jpg",
+            "hash": "medium_398mw52_white_sherwani_1_dac7211294",
+            "mime": "image/jpeg",
+            "name": "medium_398mw52-white-sherwani-1.jpg",
+            "path": null,
+            "size": 29.4,
+            "width": 536,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_398mw52_white_sherwani_1_dac7211294.jpg",
+            "hash": "thumbnail_398mw52_white_sherwani_1_dac7211294",
+            "mime": "image/jpeg",
+            "name": "thumbnail_398mw52-white-sherwani-1.jpg",
+            "path": null,
+            "size": 2.75,
+            "width": 111,
+            "height": 156
+          }
+        },
+        "hash": "398mw52_white_sherwani_1_dac7211294",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 80.74,
+        "url": "/uploads/398mw52_white_sherwani_1_dac7211294.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-03T02:00:22.272Z",
+        "updated_at": "2020-08-03T02:00:22.329Z"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryName": "clothing",
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-03T01:57:31.320Z",
+        "updated_at": "2020-08-03T01:57:31.334Z"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "antoniano.sebastiano",
+        "email": "tony@xwards.com",
+        "provider": "local",
+        "confirmed": true,
+        "blocked": false,
+        "role": 1,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-03T01:57:11.358Z",
+        "updated_at": "2020-08-03T01:57:11.369Z",
+        "mobileNumber": "9739081233",
+        "location": {},
+        "firstName": "Tony",
+        "lastName": "Sebastian",
+        "address": "Pyari Junction, Thoppumpady, Kochi",
+        "addressPIN": "682005",
+        "AADHARNumber": null,
+        "cumulativeRating": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "itemName": "Bosch GSB 16RE Impact Drill 16 MM ",
+    "itemDescription": " Item Weight: 2.41 Kg\nItem model number: 06012181K0\nASIN: B019H48L1E",
+    "depositAmount": 2000,
+    "rentalAmount": 500,
+    "rentalBasis": "hourly",
+    "EANCode": null,
+    "isActive": false,
+    "tags": null,
+    "created_by": {
+      "id": 1,
+      "firstname": "jeeth",
+      "lastname": "joseph",
+      "username": null
+    },
+    "updated_by": {
+      "id": 1,
+      "firstname": "jeeth",
+      "lastname": "joseph",
+      "username": null
+    },
+    "created_at": "2020-08-10T14:46:06.557Z",
+    "updated_at": "2020-08-10T14:46:22.082Z",
+    "itemRichTextDescription": "Drill through concrete like its butter...",
+    "images": [
+      {
+        "id": 3,
+        "name": "drill.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 500,
+        "height": 500,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_drill_e65ec47018.jpg",
+            "hash": "thumbnail_drill_e65ec47018",
+            "mime": "image/jpeg",
+            "name": "thumbnail_drill.jpg",
+            "path": null,
+            "size": 3.88,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "drill_e65ec47018",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 24.23,
+        "url": "/uploads/drill_e65ec47018.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-10T14:45:12.547Z",
+        "updated_at": "2020-08-10T14:45:12.640Z"
+      },
+      {
+        "id": 4,
+        "name": "drill2.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 1000,
+        "height": 813,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_drill2_091b45e97c.jpg",
+            "hash": "small_drill2_091b45e97c",
+            "mime": "image/jpeg",
+            "name": "small_drill2.jpg",
+            "path": null,
+            "size": 15.19,
+            "width": 500,
+            "height": 407
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "/uploads/medium_drill2_091b45e97c.jpg",
+            "hash": "medium_drill2_091b45e97c",
+            "mime": "image/jpeg",
+            "name": "medium_drill2.jpg",
+            "path": null,
+            "size": 27.73,
+            "width": 750,
+            "height": 610
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_drill2_091b45e97c.jpg",
+            "hash": "thumbnail_drill2_091b45e97c",
+            "mime": "image/jpeg",
+            "name": "thumbnail_drill2.jpg",
+            "path": null,
+            "size": 3.68,
+            "width": 192,
+            "height": 156
+          }
+        },
+        "hash": "drill2_091b45e97c",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 28.8,
+        "url": "/uploads/drill2_091b45e97c.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-10T14:45:12.662Z",
+        "updated_at": "2020-08-10T14:45:12.697Z"
+      }
+    ],
+    "categories": [
+      {
+        "id": 2,
+        "categoryName": "power-tools",
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-10T14:42:41.463Z",
+        "updated_at": "2020-08-10T14:42:41.481Z"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "antoniano.sebastiano",
+        "email": "tony@xwards.com",
+        "provider": "local",
+        "confirmed": true,
+        "blocked": false,
+        "role": 1,
+        "created_by": 1,
+        "updated_by": 1,
+        "created_at": "2020-08-03T01:57:11.358Z",
+        "updated_at": "2020-08-03T01:57:11.369Z",
+        "mobileNumber": "9739081233",
+        "location": {},
+        "firstName": "Tony",
+        "lastName": "Sebastian",
+        "address": "Pyari Junction, Thoppumpady, Kochi",
+        "addressPIN": "682005",
+        "AADHARNumber": null,
+        "cumulativeRating": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "itemName": "JBL Flip Speaker",
+    "itemDescription": "Basic bluetooth Speaker",
+    "depositAmount": 1000,
+    "rentalAmount": 300,
+    "rentalBasis": "daily",
+    "EANCode": null,
+    "isActive": false,
+    "tags": null,
+    "created_by": {
+      "id": 2,
+      "firstname": "Tony",
+      "lastname": "Sebastian",
+      "username": null
+    },
+    "updated_by": {
+      "id": 2,
+      "firstname": "Tony",
+      "lastname": "Sebastian",
+      "username": null
+    },
+    "created_at": "2020-08-14T13:26:12.574Z",
+    "updated_at": "2020-08-14T13:26:12.598Z",
+    "itemRichTextDescription": null,
+    "images": [
+      {
+        "id": 5,
+        "name": "JBL_Flip4_Black_Hero.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 626,
+        "height": 626,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "/uploads/small_JBL_Flip4_Black_Hero_60ec81667b.jpg",
+            "hash": "small_JBL_Flip4_Black_Hero_60ec81667b",
+            "mime": "image/jpeg",
+            "name": "small_JBL_Flip4_Black_Hero.jpg",
+            "path": null,
+            "size": 15.84,
+            "width": 500,
+            "height": 500
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "/uploads/thumbnail_JBL_Flip4_Black_Hero_60ec81667b.jpg",
+            "hash": "thumbnail_JBL_Flip4_Black_Hero_60ec81667b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_JBL_Flip4_Black_Hero.jpg",
+            "path": null,
+            "size": 1.72,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "JBL_Flip4_Black_Hero_60ec81667b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 25.34,
+        "url": "/uploads/JBL_Flip4_Black_Hero_60ec81667b.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_by": 2,
+        "updated_by": 2,
+        "created_at": "2020-08-14T13:25:22.379Z",
+        "updated_at": "2020-08-14T13:25:22.427Z"
+      }
+    ],
+    "categories": [
+      {
+        "id": 3,
+        "categoryName": "Entertainment",
+        "created_by": 2,
+        "updated_by": 2,
+        "created_at": "2020-08-14T13:26:54.551Z",
+        "updated_at": "2020-08-14T13:26:54.571Z"
+      }
+    ],
+    "users": []
+  }
+]
